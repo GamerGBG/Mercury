@@ -1,13 +1,3 @@
-[![discord server](https://media.discordapp.net/attachments/929706675022233640/933723518321967144/banner.jpg)](https://discord.gg/jaunk8nhN5)
-
-# Mercury
-
-Mercury is a free and open sourced Roblox UI library.
-
-- https://discord.gg/jaunk8nhN5
-- https://discord.com/users/480805591221010456
-- https://discord.com/users/452466034822217739
-
 ## Loadstring
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/deeeity/mercury-lib/master/src.lua"))()
@@ -23,8 +13,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/deeeity/mercury-lib/m
 - Color Picker
 - Notifications
 - Prompts
-
-... more to be added.
 
 Created by [Deity#0228] and [Abstract#8007]
 
